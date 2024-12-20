@@ -1,0 +1,258 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.head1{
+    background-color: white;
+    padding-top: 10px;
+    font-size:30px;
+   
+}
+.head1{
+
+    display: flex;
+    justify-content: space-between;
+   
+}
+.left i {
+    color: rgb(118, 22, 174);
+    padding-bottom: 15px;   
+
+}
+.left{
+    display: flex;
+    gap: 15px;
+}
+
+.mid{
+    display: flex;
+    gap: 120px;
+}
+.mid i{
+    padding-top: 10px;
+}
+.left{
+    padding-left: 30px;
+
+}
+
+.left h1{
+    padding: 0%;
+    margin: 0%;
+    font-size: 30px;
+}
+
+ul{
+    list-style-type: none;
+    font-weight: bold;
+    display: flex;
+    gap: 40px;
+}
+
+.righ{
+    display: flex;
+    gap: 60px;
+}
+
+
+
+button{
+    width: 130px;
+    height: 50px;
+    background-color: rgb(105, 33, 206);
+    color: white;
+    border-radius: 10px;
+    font-weight:30px;
+   margin-right: 30px;
+   margin-bottom: 10px;
+}
+
+/* section 2 */
+
+body{
+   
+}
+
+.head2{
+    background-color: blueviolet;
+    width: 1220x;
+    height: 630px;
+}
+
+.head2{
+    display: flex;
+    margin-bottom: 400px;
+}
+
+.rig{
+    color: white;
+    padding-left: 50px;
+    padding-top: 120px;
+    gap: 40px;
+}
+.bb button{ 
+    width: 120px;
+    height: 40px;
+    color: black;
+    background-color: white;
+    margin-top: 20px;
+
+  
+}
+
+.head2 img{
+    padding-right: 20px;
+    width: 600px;
+    padding-top: 20px;
+   
+}
+.rig h1{
+    font-size: 60px;
+    padding-top: 20px;
+}
+
+/* sectin 3 */
+.haed4 img{
+    width: 900px;
+    padding-left: 250px;
+    padding-bottom: 300px;
+    position: absolute;
+}
+
+.oww{
+    width: 700px;
+   border: 3 rgb(209, 35, 35) solid;
+   position: relative;
+   background-color: white;
+   margin-left: 500px;
+   margin-top: -300px;
+   border-radius:10px;
+   padding-left: 30px;
+}
+
+.two{
+    display: flex;
+    gap: 10px;
+}
+.uto button{
+    background-color: transparent;
+    color: black;
+    border: rgb(135, 42, 206) solid;
+    margin-top: 10px;
+}
+
+/* section4 */
+.mm{
+    padding-top: 400px;
+    display: flex;
+    justify-content: space-around;
+    gap: 500px;
+}
+.head5{
+    margin-top: 60px;
+    display: flex;
+}
+.mgg img{
+
+    width: 800px;
+    height: 500px;
+    padding-left: 20px;
+
+}
+.dis{
+    display: flex;
+    gap: 10px;
+    padding-top: 30px;
+    padding-left:30px ;
+}
+.ev{
+    padding-left: 30px;
+}
+
+.ev h2{
+    padding-top: 60px;
+    font-size: 30px;
+
+}
+
+.ev p{
+    padding-top:60px ;
+    font-size: 20px;
+}
+.bt button{
+     margin-top: 60px;
+     color: rgb(121, 6, 163);
+     background-color: transparent;
+     border: 2px rgb(115, 11, 171) solid;
+}
+
+.heed6{
+    display: flex;
+    padding-left: 30px;
+    gap: 80px;
+    margin-left: 20px;
+    padding-top: 30px;
+}
+.heed6 img{
+     width: 300px;
+    
+    
+}
+.ii h1 {
+   font-size: 15px;
+   left: 20px; 
+   padding-top: 15px;
+}
+
+.ii p{
+    padding-top: 15px;
+}
+
+.oo{
+    display: flex;
+    gap: 45px;
+}
+
+/* sectio5 */
+.tt{
+    padding-top: 90px;
+    display: flex;
+    justify-content: space-around;
+    gap: 550px;
+}
+
+/* last */
+
+.last{
+    background-color: blueviolet;
+    width: 1220x;
+    height: 230px;
+    padding-top: 90px;
+    padding-left: 220px;
+    border-radius: 10px;
+    margin-top: 70px;
+}
+
+.helo{
+    font-size: 30px;
+    color: white;
+
+}
+
+.bbtn{
+    display: flex;
+    margin-left: 300px;
+}
+
+.fal button{
+    width: 200px;
+    background-color: white;
+    color: black;
+}
+
+.laf button{
+    width: 150px;
+    background-color: transparent;
+    color: white;
+    border: 1px white solid;
+}
